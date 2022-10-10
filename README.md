@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Alex, junior data analyst with a long experince in teaching and telecommunications  
+I'm Alex, junior data analyst with a long experience in teaching and telecommunications  
 
 ### About Me  
 - Started with data analytics in the spring of 2022
