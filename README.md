@@ -8,7 +8,7 @@ I'm Alex, junior data analyst with a long expirince in teaching and telecommunic
 
 ### My core competencies in data analytics
 - Google Sheets, SQL, MS Power BI, Python
-- Marketing and product data analytics basics
+- Marketing and product data analytics
 
 ### Projects  
 [Here](https://github.com/realseich/Portfolio) is the link for my projects  
