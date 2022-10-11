@@ -1,14 +1,14 @@
 ### Hi there 👋
-I'm Alex, junior data analyst with a long experience in teaching and telecommunications  
+I'm Alex, junior data analyst :bar_chart: with a long experience in teaching and telecommunications :telephone_receiver::signal_strength::link:  
 
-### About Me  
+### On the path to data analytics :bar_chart:    
 - Started with data analytics in the spring of 2022
 - Still following 6-months data analytics training course
 - Helping other students to understand the courseware
 
 ### My core competencies in data analytics
-- Google Sheets, SQL, MS Power BI, Python
-- Marketing and product data analytics
+- Google Sheets, SQL, MS Power BI, Python :hammer::wrench:  
+- Marketing and product data analytics :chart_with_upwards_trend:  
 
 ### Projects  
 [Here](https://github.com/realseich/Portfolio) is the link for my projects  
