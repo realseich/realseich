@@ -7,8 +7,8 @@ I'm Alex, junior data analyst :bar_chart: with a long experience in teaching :bu
 - Helping other students to understand the courseware :bulb:  
 
 ### My core competencies in data analytics
-- Google Sheets, SQL, MS Power BI, Python :hammer::wrench:  
-- Marketing and product data analytics :chart_with_upwards_trend:  
+- Google Sheets, SQL, MS Power BI, Python with Pandas, Seaborn, SciPy stats and so on  :hammer::wrench:  
+- Marketing and product data analytics, Unit economics... :chart_with_upwards_trend:  
 
 ### Projects :books:    
 [Here](https://github.com/realseich/Portfolio) is the link for my projects  
