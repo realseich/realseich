@@ -3,12 +3,12 @@ I'm Alex, junior data analyst :bar_chart: with a long experience in teaching :bu
 
 ### On the path to data analytics :bar_chart:    
 - Started with data analytics in the spring of 2022 :chart_with_upwards_trend:  
-- Still following 6-months data analytics training course :pencil:  
-- Helping other students to understand the courseware :bulb:  
+- Just have completed 6-months data analytics training course :pencil:  
+- Have been helping other students to understand the courseware :bulb:  
 
 ### My core competencies in data analytics
-- Google Sheets, SQL, MS Power BI, Python with Pandas, Seaborn, SciPy stats and so on  :hammer::wrench:  
-- Marketing and product data analytics, Unit economics... :chart_with_upwards_trend:  
+- Google Sheets, PostgreSQL, MS Power BI, Python with Pandas, Matplotlib, Seaborn, psycopg2, SciPy stats and so on  :hammer::wrench:  
+- Marketing and product data analytics, financial analytic, Unit economics... :chart_with_upwards_trend:  
 
 ### Projects :books:    
 [Here](https://github.com/realseich/Portfolio) is the link for my projects  
